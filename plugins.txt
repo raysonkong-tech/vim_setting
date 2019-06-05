@@ -26,3 +26,5 @@ https://github.com/ervandew/matchem
 # Auto close html tags
 https://github.com/alvan/vim-closetag
 
+# Color Scheme
+https://github.com/junegunn/seoul256.vim
