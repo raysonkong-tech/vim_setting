@@ -1,0 +1,28 @@
+# Package manager
+https://github.com/tpope/vim-pathogen
+
+puts plugins in ~/.vim/bundle
+- create the folder if it does not exist
+in .vimrc
+set runtimepath^=./.vim/bundle/your_awesome_plugin_folder
+
+- put .vimrc in ~/
+
+# fuzzy search
+http://ctrlpvim.github.io/ctrlp.vim/#installation
+
+# Nerdtree
+https://github.com/scrooloose/nerdtree
+
+# vim endwise for ruby
+https://github.com/tpope/vim-endwise
+
+# supertab
+https://github.com/ervandew/supertab
+
+# Auto brackets completion
+https://github.com/ervandew/matchem
+
+# Auto close html tags
+https://github.com/alvan/vim-closetag
+
